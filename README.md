@@ -12,7 +12,7 @@ Generate a file with x number of lines and each line consist of a string that is
 
 ## Results
 
-Successly generates file with x no of rows cosists of unique 100 characters long string with less than 4m of ram untilize restuls recoded with Jprofiler 10 million rows
+Successly generates file with x no of rows consists of unique 100 characters long string with less than 4m of ram untilize, restuls recoded with Jprofiler for 10 million rows genration 
 
 #### Strings generated 
 
