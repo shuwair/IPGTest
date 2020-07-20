@@ -7,8 +7,8 @@ Generate a file with x number of lines and each line consist of a string that is
 ## Solution
 
 * Used Flyweight Pattern for passing strings and not stored in any array or list to save memory 
-* String generated with the combination of  counter and zero padding (eg .....0000001) so every string shuld be unique
-* Used BufferedWriter for wiring generated rows to file with buffer size of 100 as each row contains 100 chars
+* String generated with the combination of  counter and zero padding (eg .....0000001) so every string should be unique
+* Used BufferedWriter for writing generated rows to file with buffer size of 100 as each row contains 100 chars
 
 ## Results
 
